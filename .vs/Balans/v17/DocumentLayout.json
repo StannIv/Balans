@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stani\\source\\repos\\Balans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|c:\\users\\stani\\source\\repos\\balans\\balans\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|solutionrelative:balans\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|c:\\users\\stani\\source\\repos\\balans\\balans\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|solutionrelative:balans\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|c:\\users\\stani\\source\\repos\\balans\\balans\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|solutionrelative:balans\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|c:\\users\\stani\\source\\repos\\balans\\balans\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4748239-8855-44FB-BA19-AA4744E187FA}|Balans\\Balans.csproj|solutionrelative:balans\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:17:33.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Balans\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T08:17:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Balans\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Balans\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAFEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:53:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Balans\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\stani\\source\\repos\\Balans\\Balans\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Balans\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:49:23.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
